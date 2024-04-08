@@ -42,7 +42,7 @@ class SupportedLanguages extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.primary,
-        title: const Text("Muti_Language"),
+        title: const Text("Multi_Language"),
       ),
     );
   }
